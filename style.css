@@ -345,7 +345,13 @@ section .title::after{
 .skills-content .right .mysql::before{
     width: 70%;
 }
+.skills-content .right .go::before {
+    width: 70%;
+}
 
+.skills-content .right .rust::before {
+    width: 60%;
+}
 /* contact section styling */
 .contact .title::after{
     content: "get in touch";
